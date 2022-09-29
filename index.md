@@ -1081,7 +1081,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Noah Hall
 1. Noel Cower
 1. Noel Georgi
-1. Nora Moldestad
 1. Norbert Tretkowski (Debian Developer, FSFE Supporter)
 1. Odhiambo Dormnic (@ayimdomnic)
 1. Ole Streicher (Debian Developer)
